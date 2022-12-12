@@ -53,8 +53,14 @@ _**Passos**_
  
  *Millena Sangela de Almeida Sales:* Apresentação do protótipo versão desktop.
  
-[Link apresentação ](https://docs.google.com/presentation/d/1DGwxg5Dz4yIUiIzBX5IhDIBKYNqd0FlPkRbhKUn9X1k/edit#slide=id.p3)
+[Link apresentação](https://docs.google.com/presentation/d/1DGwxg5Dz4yIUiIzBX5IhDIBKYNqd0FlPkRbhKUn9X1k/edit#slide=id.g1231a35266e_0_0)
 
 
+[Link Pitch](https://docs.google.com/document/d/1n7QV5LTpWG58HQvTfh2RdXnL1jscYKUMMgg5t-sG2yY/edit?usp=drivesdk)
 
+
+[Link link mobile](https://www.figma.com/file/8tRPULSQytW4PEjKO114eF/NAVIGATOR?node-id=0%3A1&t=IEZmgYtjEP6WiLJA-0)
+
+
+[Link link Desktop](https://app.uizard.io/p/658fc7c5)
 
